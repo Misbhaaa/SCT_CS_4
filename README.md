@@ -29,7 +29,8 @@ Open the terminal and run:
 python keylogger.py
 A message will appear:
 
-Keylogger started. Press Ctrl (Left or Right) to stop.
+  Keylogger started. Press Ctrl (Left or Right) to stop.
+
 Open Notepad or any other text field and type.
 
 Press Left or Right Ctrl key to stop the keylogger.
