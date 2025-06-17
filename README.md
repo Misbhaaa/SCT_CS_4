@@ -26,17 +26,11 @@ It demonstrates a basic keylogger built using Python that captures and stores ke
 1.Clone or download the repo.
 
 2.Open the terminal and run:
-
-bash
-Copy
-Edit
-python keylogger.py
+  `python keylogger.py`
 3.A message will appear:
 
-css
-Copy
-Edit
-  Keylogger started. Press Ctrl (Left or Right) to stop.
+
+  `Keylogger started. Press Ctrl (Left or Right) to stop.`
 4.Open Notepad or any other text field and type.
 
 5.Press Left or Right Ctrl key to stop the keylogger.
