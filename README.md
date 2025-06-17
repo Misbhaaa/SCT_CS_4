@@ -23,16 +23,24 @@ It demonstrates a basic keylogger built using Python that captures and stores ke
   ```bash
   pip install pynput
 ## 🚀 How to Run
-Clone or download the repo.
+1.Clone or download the repo.
 
-Open the terminal and run:
+2.Open the terminal and run:
+
+bash
+Copy
+Edit
 python keylogger.py
-A message will appear:
+3.A message will appear:
 
+css
+Copy
+Edit
   Keylogger started. Press Ctrl (Left or Right) to stop.
+4.Open Notepad or any other text field and type.
 
-Open Notepad or any other text field and type.
+5.Press Left or Right Ctrl key to stop the keylogger.
 
-Press Left or Right Ctrl key to stop the keylogger.
+6.A file named like keylog_2025-06-17_18-30-55.txt will be created in the same folder, containing the logged keystrokes.
 
-A file named like keylog_2025-06-17_18-30-55.txt will be created in the same folder, containing the logged keystrokes.
+reated in the same folder, containing the logged keystrokes.
