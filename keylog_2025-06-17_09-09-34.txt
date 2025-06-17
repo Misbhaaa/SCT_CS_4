@@ -1,0 +1,29 @@
+2025-06-17 09:09:39,244: Key pressed: h
+2025-06-17 09:09:39,364: Key pressed: e
+2025-06-17 09:09:39,700: Key pressed: l
+2025-06-17 09:09:39,835: Key pressed: l
+2025-06-17 09:09:39,996: Key pressed: o
+2025-06-17 09:09:40,190: Special key pressed: Key.space
+2025-06-17 09:09:40,634: Key pressed: t
+2025-06-17 09:09:40,780: Key pressed: h
+2025-06-17 09:09:40,855: Key pressed: e
+2025-06-17 09:09:41,060: Key pressed: r
+2025-06-17 09:09:41,217: Key pressed: e
+2025-06-17 09:09:41,367: Special key pressed: Key.space
+2025-06-17 09:09:44,471: Special key pressed: Key.enter
+2025-06-17 09:09:45,079: Key pressed: g
+2025-06-17 09:09:45,344: Key pressed: o
+2025-06-17 09:09:45,471: Key pressed: o
+2025-06-17 09:09:45,581: Key pressed: d
+2025-06-17 09:09:45,702: Special key pressed: Key.space
+2025-06-17 09:09:45,880: Key pressed: m
+2025-06-17 09:09:46,103: Key pressed: o
+2025-06-17 09:09:46,226: Key pressed: r
+2025-06-17 09:09:46,309: Key pressed: n
+2025-06-17 09:09:46,490: Key pressed: i
+2025-06-17 09:09:46,644: Key pressed: n
+2025-06-17 09:09:46,828: Key pressed: g
+2025-06-17 09:09:47,433: Special key pressed: Key.shift
+2025-06-17 09:09:47,877: Key pressed: !
+2025-06-17 09:09:50,923: Special key pressed: Key.enter
+2025-06-17 09:09:52,113: Special key pressed: Key.ctrl_l
